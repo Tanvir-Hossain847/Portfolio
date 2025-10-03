@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "The Avenue",
+    "description": "Premium convention hall with a futuristic architectural design for conferences, meetings, and events.",
+    "logo": "/mnt/data/AVENUE 1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Circle",
+    "description": "Modern and stylish convention hall with an elegant geometric identity for corporate and social gatherings.",
+    "logo": "/mnt/data/AVENUE 2.0 1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Deshio Closet",
+    "description": "Trendy and fashionable clothing brand offering modern styles with a touch of elegance.",
+    "logo": "/mnt/data/dashio 2.jpg"
+  }
+]

@@ -3,7 +3,7 @@ import React from 'react';
 const Navbar = () => {
     return (
         <div className="pt-5">
-       <div class="navbar bg-gray-800 text-[#EF6351] shadow-sm mx-auto px-10 w-3/4 rounded-md border-1 border-gray-400">
+       <div class="navbar bg-gray-800 text-[#EF6351] shadow-sm mx-auto px-10 w-3/4 rounded-md border-1 border-gray-500">
   <div class="navbar-start">
     <div class="dropdown">
       <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
